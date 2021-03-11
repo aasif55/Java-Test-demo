@@ -6,6 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - LengthXY",
+            "request": "launch",
+            "mainClass": "LengthXY"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - calculateXY",
+            "request": "launch",
+            "mainClass": "calculateXY"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lengthXY",
+            "request": "launch",
+            "mainClass": "lengthXY"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - EmpWageBuilderUC1",
             "request": "launch",
             "mainClass": "EmpWageBuilderUC1"
